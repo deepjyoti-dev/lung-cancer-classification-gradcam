@@ -21,7 +21,7 @@ lung-cancer-classification-gradcam/
 ├── models/
 │   ├── lung_transfer_model.h5
 │
-├── screenshots/
+├── screenshots/   
 │   ├── training.png
 │   ├── gradcam.png
 │
