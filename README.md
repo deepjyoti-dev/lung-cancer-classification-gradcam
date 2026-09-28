@@ -30,7 +30,7 @@ lung-cancer-classification-gradcam/
 ├── LICENSE
 ├── train.py
 ├── gradcam.py
-└── .gitignore
+└── .gitignore.
 
 
 
