@@ -38,7 +38,7 @@ lung-cancer-classification-gradcam/
 
 Prepared by Deepjyoti Das Technologies
 
-## 📌 Overview
+## 📌 Overview details 
 
 This project uses Transfer Learning with ResNet50 to classify lung CT scan/X-ray images into:
 
